@@ -1,0 +1,8 @@
+button0,door0,
+|w,w,w
+w,f:b^button0,w
+w,f:a^agent0,w
+w,f:d>s^door0,w
+w,f:g^flag0,w
+w,w,w
+|w,w,

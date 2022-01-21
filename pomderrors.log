@@ -1,0 +1,22 @@
+Actual observation according to environment: LRObservation(doors={door6=OPEN})
+Resulting states from belief state:
+StateWithGoalProgress(progress=[true], state=LRState{pos=(1, 11),entityStates={door2=CLOSED, door1=OPEN, door3=CLOSED, door4=OPEN, door5=OPEN, door6=OPEN}}):
+	 LRObservation(doors={door2=CLOSED, door1=OPEN, door3=CLOSED, door4=OPEN}) : 1.0E-6
+	 LRObservation(doors={door2=CLOSED, door1=OPEN, door3=CLOSED}) : 9.99E-4
+	 LRObservation(doors={door2=CLOSED, door3=CLOSED, door4=OPEN}) : 9.99E-4
+	 LRObservation(doors={door2=CLOSED, door3=CLOSED}) : 0.998001
+StateWithGoalProgress(progress=[true], state=LRState{pos=(1, 12),entityStates={door2=CLOSED, door1=OPEN, door3=CLOSED, door4=OPEN, door5=OPEN, door6=OPEN}}):
+	 LRObservation(doors={door2=CLOSED, door1=OPEN, door3=CLOSED, door4=OPEN}) : 1.0E-6
+	 LRObservation(doors={door2=CLOSED, door1=OPEN, door3=CLOSED}) : 9.99E-4
+	 LRObservation(doors={door2=CLOSED, door3=CLOSED, door4=OPEN}) : 9.99E-4
+	 LRObservation(doors={door2=CLOSED, door3=CLOSED}) : 0.998001
+StateWithGoalProgress(progress=[true], state=LRState{pos=(1, 11),entityStates={door2=CLOSED, door1=OPEN, door3=CLOSED, door4=OPEN, door5=CLOSED, door6=OPEN}}):
+	 LRObservation(doors={door2=CLOSED, door1=OPEN, door3=CLOSED, door4=OPEN}) : 1.0E-6
+	 LRObservation(doors={door2=CLOSED, door1=OPEN, door3=CLOSED}) : 9.99E-4
+	 LRObservation(doors={door2=CLOSED, door3=CLOSED, door4=OPEN}) : 9.99E-4
+	 LRObservation(doors={door2=CLOSED, door3=CLOSED}) : 0.998001
+StateWithGoalProgress(progress=[true], state=LRState{pos=(1, 12),entityStates={door2=CLOSED, door1=OPEN, door3=CLOSED, door4=OPEN, door5=CLOSED, door6=OPEN}}):
+	 LRObservation(doors={door2=CLOSED, door1=OPEN, door3=CLOSED, door4=OPEN}) : 1.0E-6
+	 LRObservation(doors={door2=CLOSED, door1=OPEN, door3=CLOSED}) : 9.99E-4
+	 LRObservation(doors={door2=CLOSED, door3=CLOSED, door4=OPEN}) : 9.99E-4
+	 LRObservation(doors={door2=CLOSED, door3=CLOSED}) : 0.998001
